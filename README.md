@@ -27,4 +27,4 @@ https://github.com/vsjemere/vs-skippa-CNE
 -Vs Red Bird CNE PORT (no esta publico)
 
 -Bopcity CNE PORT (wip)
-https://www.mediafire.com/file/szndl489jksfxvq/BopCity.rar/file
+https://github.com/vsjemere/bopcity-CNE
