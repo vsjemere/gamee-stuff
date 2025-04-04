@@ -6,7 +6,7 @@ https://gamebanana.com/mods/503581
 -Vs Jemere v2 WIP
 https://gamebanana.com/wips/89976
 
--Vs Jemere v2 DEMO (no esta publico)
+-Vs Jemere v2 DEMO
 https://gamebanana.com/mods/581145
 
 -Vs Oldpostor
