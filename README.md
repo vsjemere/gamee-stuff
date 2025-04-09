@@ -1,4 +1,6 @@
-Mis weas de fnf (weas en la que trabaje o ando trabajando)
+# Mis weas de fnf (weas en la que trabaje o ando trabajando)
+
+## Proyectos mios
 
 -Vs Jemere
 https://gamebanana.com/mods/503581
@@ -15,16 +17,21 @@ https://gamebanana.com/mods/522348
 -Wanted Psych engine port (0.7.3)
 https://gamebanana.com/mods/560093
 
--Vs Sunik V2 (no esta publico)
-https://gamebanana.com/mods/517492
-
 -Vs Skippa CNE PORT
 https://gamebanana.com/mods/583509
 https://github.com/vsjemere/vs-skippa-CNE
 
--Vs Kapi (Arcade Showdown V2) CNE PORT (no esta publico)
+-Vs Kapi CNE PORT (wip)
 
--Vs Red Bird CNE PORT (no esta publico)
+-Vs Red Bird CNE PORT (wip)
 
 -Bopcity CNE PORT (wip)
 https://github.com/vsjemere/bopcity-CNE
+
+## Proyectos que no son mios
+
+-Vs Sunik V2 (no esta publico)
+https://gamebanana.com/mods/517492
+
+-Vs Iaso V1 (no esta publico)
+https://gamebanana.com/mods/486232
