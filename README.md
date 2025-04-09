@@ -30,6 +30,9 @@ https://github.com/vsjemere/bopcity-CNE
 
 ## Proyectos que no son mios
 
+-Magic Funkin DEMO
+https://gamebanana.com/mods/508725
+
 -Vs Sunik V2 (no esta publico)
 https://gamebanana.com/mods/517492
 
