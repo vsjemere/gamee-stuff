@@ -38,3 +38,6 @@ https://gamebanana.com/mods/517492
 
 -Vs Iaso V1 (no esta publico)
 https://gamebanana.com/mods/486232
+
+-FNF': Shifting Sunday V1 (no esta publico)
+https://gamebanana.com/mods/556946
