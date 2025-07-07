@@ -41,3 +41,5 @@ https://gamebanana.com/mods/486232
 
 -FNF': Shifting Sunday V1 (no esta publico)
 https://gamebanana.com/mods/556946
+
+-FNF': Classic Beats (no esta publico)
