@@ -1,9 +1,8 @@
-# Mis weas de fnf (weas en la que trabaje o ando trabajando)
+# Fnf Stuff
 
 ## Proyectos mios
 
 -Vs Jemere
-
 https://gamebanana.com/mods/503581
 
 -Vs Jemere v2 WIP
