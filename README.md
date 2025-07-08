@@ -33,13 +33,12 @@ https://github.com/vsjemere/bopcity-CNE
 -Magic Funkin DEMO
 https://gamebanana.com/mods/508725
 
--Vs Sunik V2 (no esta publico)
+-Vs Sunik V1.5
 https://gamebanana.com/mods/517492
 
--Vs Iaso V1 (no esta publico)
-https://gamebanana.com/mods/486232
-
--FNF': Shifting Sunday V1 (no esta publico)
+-FNF': Shifting Sunday V1
 https://gamebanana.com/mods/556946
 
--FNF': Classic Beats (no esta publico)
+-FNF': Classic Beats
+
+-FNF': I Love Funk
