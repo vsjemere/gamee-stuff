@@ -2,7 +2,8 @@
 
 ## Proyectos mios
 
--Vs Jemere\n
+-Vs Jemere
+
 https://gamebanana.com/mods/503581
 
 -Vs Jemere v2 WIP
